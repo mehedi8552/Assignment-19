@@ -1,0 +1,63 @@
+[
+    {
+      "category": "Smartphone",
+      "mobileName": "iPhone 13",
+      "price": 1099.99
+    },
+    {
+      "category": "Android",
+      "mobileName": "Samsung Galaxy S21",
+      "price": 899.99
+    },
+    {
+      "category": "Smartphone",
+      "mobileName": "Google Pixel 6",
+      "price": 799.99
+    },
+    {
+      "category": "Feature Phone",
+      "mobileName": "Nokia 3310",
+      "price": 49.99
+    },
+    {
+      "category": "Smartphone",
+      "mobileName": "OnePlus 9",
+      "price": 899.99
+    },
+    {
+      "category": "Android",
+      "mobileName": "Xiaomi Mi 11",
+      "price": 749.99
+    },
+    {
+      "category": "Feature Phone",
+      "mobileName": "Motorola Razr",
+      "price": 999.99
+    },
+    {
+      "category": "Smartphone",
+      "mobileName": "Sony Xperia 1 III",
+      "price": 1299.99
+    },
+    {
+      "category": "Android",
+      "mobileName": "LG Velvet",
+      "price": 599.99
+    },
+    {
+      "category": "Smartphone",
+      "mobileName": "Huawei P40 Pro",
+      "price": 899.99
+    },
+    {
+      "category": "Feature Phone",
+      "mobileName": "Motorola Razr",
+      "price": 999.99
+    },
+    {
+      "category": "Android",
+      "mobileName": "LG Velvet",
+      "price": 599.99
+    }
+  ]
+  

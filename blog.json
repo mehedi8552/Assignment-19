@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Tailwind CSS",
+      "date": "January 15, 2023",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...,"
+    },
+    {
+      "id": 2,
+      "title": "Responsive Web Design with Flexbox",
+      "date": "February 3, 2023",
+      "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada..."
+    },
+    {
+        "id": 1,
+        "title": "Getting Started with Tailwind CSS",
+        "date": "January 15, 2023",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...,"
+      },
+      {
+        "id": 2,
+        "title": "Responsive Web Design with Flexbox",
+        "date": "February 3, 2023",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada..."
+      }
+  ]

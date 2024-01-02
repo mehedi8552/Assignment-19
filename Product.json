@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro Max",
+      "color": "red",
+      "price": 219.99,
+      "image": "path/to/product1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Galaxy S20",
+        "color": "blue",
+        "price": 119.99,
+        "image": "path/to/product1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Galaxy S20 Ultra",
+        "color": "red",
+        "price": 143.99,
+        "image": "path/to/product1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Galaxy S",
+        "color": "blue",
+        "price": 100.99,
+        "image": "path/to/product1.jpg"
+    }
+  ]
+
